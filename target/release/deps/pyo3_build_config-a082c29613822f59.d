@@ -1,0 +1,13 @@
+/home/pmosconi/Source/Repos/scallop/target/release/deps/libpyo3_build_config-a082c29613822f59.rmeta: /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/lib.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/errors.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/impl_.rs /home/pmosconi/Source/Repos/scallop/target/release/build/pyo3-build-config-0cf4def58ffa493f/out/pyo3-build-config-file.txt /home/pmosconi/Source/Repos/scallop/target/release/build/pyo3-build-config-0cf4def58ffa493f/out/pyo3-build-config.txt
+
+/home/pmosconi/Source/Repos/scallop/target/release/deps/libpyo3_build_config-a082c29613822f59.rlib: /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/lib.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/errors.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/impl_.rs /home/pmosconi/Source/Repos/scallop/target/release/build/pyo3-build-config-0cf4def58ffa493f/out/pyo3-build-config-file.txt /home/pmosconi/Source/Repos/scallop/target/release/build/pyo3-build-config-0cf4def58ffa493f/out/pyo3-build-config.txt
+
+/home/pmosconi/Source/Repos/scallop/target/release/deps/pyo3_build_config-a082c29613822f59.d: /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/lib.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/errors.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/impl_.rs /home/pmosconi/Source/Repos/scallop/target/release/build/pyo3-build-config-0cf4def58ffa493f/out/pyo3-build-config-file.txt /home/pmosconi/Source/Repos/scallop/target/release/build/pyo3-build-config-0cf4def58ffa493f/out/pyo3-build-config.txt
+
+/home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/lib.rs:
+/home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/errors.rs:
+/home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.18.3/src/impl_.rs:
+/home/pmosconi/Source/Repos/scallop/target/release/build/pyo3-build-config-0cf4def58ffa493f/out/pyo3-build-config-file.txt:
+/home/pmosconi/Source/Repos/scallop/target/release/build/pyo3-build-config-0cf4def58ffa493f/out/pyo3-build-config.txt:
+
+# env-dep:OUT_DIR=/home/pmosconi/Source/Repos/scallop/target/release/build/pyo3-build-config-0cf4def58ffa493f/out

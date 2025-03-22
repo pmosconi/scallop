@@ -1,0 +1,11 @@
+/home/pmosconi/Source/Repos/scallop/target/release/deps/libapprox-9b9ce448d597f163.rmeta: /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/lib.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/abs_diff_eq.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/relative_eq.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/ulps_eq.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/macros.rs
+
+/home/pmosconi/Source/Repos/scallop/target/release/deps/libapprox-9b9ce448d597f163.rlib: /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/lib.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/abs_diff_eq.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/relative_eq.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/ulps_eq.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/macros.rs
+
+/home/pmosconi/Source/Repos/scallop/target/release/deps/approx-9b9ce448d597f163.d: /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/lib.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/abs_diff_eq.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/relative_eq.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/ulps_eq.rs /home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/macros.rs
+
+/home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/lib.rs:
+/home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/abs_diff_eq.rs:
+/home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/relative_eq.rs:
+/home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/ulps_eq.rs:
+/home/pmosconi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/approx-0.3.2/src/macros.rs:

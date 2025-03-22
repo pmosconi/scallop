@@ -1,5 +1,5 @@
 # Rust and compilation
-target
+# target
 /.tmp
 /Cargo.lock
 
